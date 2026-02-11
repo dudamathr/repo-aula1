@@ -1,1 +1,2 @@
 Minha primeira aula de Git
+Linha 2: entendi working/staging/commit
