@@ -1,3 +1,4 @@
 Minha primeira aula de Git
 Linha 2: entendi working/staging/commit
 Linha 3: Dia 2 - push/pull ok
+Linha 4: editei direto no GitHub
