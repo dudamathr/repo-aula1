@@ -4,3 +4,7 @@ Linha 3: Dia 2 - push/pull ok
 Linha 4: editei direto no GitHub
 Linha extra: treino ahead
 Linha extra: treino behind
+Dia 3: criei branch, commitei, mergei e fiz push
+Fast-forward merge: main "andou" até o commit da feature
+Dia 3: repeti o fluxo branch -> commit -> merge -> push
+Aprendi: fast-forward move a main até o commit da feature
